@@ -1,0 +1,14 @@
+Author	Title	Publisher	Shelf	Category	Subject
+Dupre	Skyscrapers	BD&L	12	Architecture	20th Century
+Hollingsworth	Architecture of the 20th Century	Exeter	6	Architecture	20th Century
+Johnson Burgee	Architecture 1979-1985	Rizzoli	6	Architecture	20th Century
+Tzonis	Santiago Calatrava The Complete Works Expanded Edition	Rizzoli	12	Architecture	20th Century
+Breeze	L. A. Deco	Rizzoli	16	Architecture	American Architecture
+Brownlee	Making a Moden Classic The Architecture of the Philadelphia Museum of Art	Philadelphia Museum of Art	10	Architecture	American Architecture
+Editoriale Domus	Empire State Building Kit	Editoriale Domus	31	Architecture	American Architecture
+Gebhard and Winter	Los Angeles An Architecture Guide	Gibbs Smith	17	Architecture	American Architecture
+Gebhard and Zimmerman	The California Architecture of Frank Lloyd Wright	Chronicle Books	31	Architecture	American Architecture
+Eddings	Belgarath the Sorcerer		34	Fiction	Fantasy
+Eddings	Castle of Wizardry		34	Fiction	Fantasy
+Eddings	Demon Lord of Karanda		34	Fiction	Fantasy
+Eddings	Enchanter's End Game		34	Fiction	Fantasy
